@@ -1,0 +1,9 @@
+$red: rgb(150, 65, 65);
+
+.app {
+    background-color: #fff;
+
+    .test {
+        color: $red;
+    }
+}
